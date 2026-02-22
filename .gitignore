@@ -1,2 +1,4 @@
 fetch_tmdb_ratings.py
 *.tsv
+.claude/
+.windsurf/
